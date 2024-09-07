@@ -1,4 +1,4 @@
-import { Box, Image, Badge, Text } from '@chakra-ui/react'
+import { Badge, Box, Image, Text } from '@chakra-ui/react'
 
 type PokemonCardProps = {
   name: string

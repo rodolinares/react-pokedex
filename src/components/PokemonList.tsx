@@ -1,4 +1,5 @@
 import { SimpleGrid } from '@chakra-ui/react'
+
 import PokemonCard from './PokemonCard'
 
 type Pokemon = {
